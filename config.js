@@ -4,6 +4,6 @@
 //   supabaseAnonKey  คีย์ชนิด "anon" / "publishable" (เปิดเผยในหน้าเว็บได้ ความปลอดภัยควบคุมโดย schema.sql)
 // ห้ามใส่คีย์ชนิด service_role หรือ secret ในไฟล์นี้เด็ดขาด เพราะไฟล์นี้เป็นสาธารณะ
 window.FLOOD_CONFIG = {
-  supabaseUrl: "",
+  supabaseUrl: "https://bvkhrscbicackopzncbi.supabase.co/rest/v1/",
   supabaseAnonKey: "sb_publishable_TYtws5KKgsSLZG8rfFNXGA_xpwZOi7I"
 };
