@@ -5,5 +5,5 @@
 // ห้ามใส่คีย์ชนิด service_role หรือ secret ในไฟล์นี้เด็ดขาด เพราะไฟล์นี้เป็นสาธารณะ
 window.FLOOD_CONFIG = {
   supabaseUrl: "",
-  supabaseAnonKey: ""
+  supabaseAnonKey: "sb_publishable_TYtws5KKgsSLZG8rfFNXGA_xpwZOi7I"
 };
